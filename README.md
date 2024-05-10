@@ -76,3 +76,6 @@ if __name__ == "__main__":
 
 ## sample output
 ![WhatsApp Image 2024-05-10 at 14 24 38_abd93a19](https://github.com/vikamuhan-reddy/19AI405ProjExp/assets/144928933/fd756af3-237b-4935-9e54-2fab325542ba)
+
+## Result
+The program has been successfully implemented and executed.
